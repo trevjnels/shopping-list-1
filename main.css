@@ -28,7 +28,7 @@ button:hover {
   padding-left: 0;
 }
 
-.shopping-list > li {
+.shopping-list>li {
   margin-bottom: 20px;
   border: 1px solid grey;
   padding: 20px;
